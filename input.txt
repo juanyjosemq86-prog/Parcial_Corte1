@@ -1,0 +1,4 @@
+sqrt 25
+sqrt 2
+sqrt 144
+sqrt 10
