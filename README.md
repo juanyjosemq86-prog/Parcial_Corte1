@@ -1,5 +1,5 @@
 Punto 1 – AFD para movimientos de ajedrez
-Este programa implementa un Autómata Finito Determinista (AFD) que reconoce un lenguaje de movimientos simplificados de ajedrez.
+Este programa implementa un Autómata Finito Determinista (AFD) que reconoce un lenguaje de movimientos simplificados de ajedrez..
 La estructura general del lenguaje es:
 [pieza] -> [pieza][posición]
 o captura:
